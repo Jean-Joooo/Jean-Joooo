@@ -4,7 +4,7 @@
 
 <img width="280" src="https://github.com/Jean-Joooo/Jean-Joooo/assets/124114074/d76adcb2-b1d8-46d0-bd31-b84dc3a7fbe3" alt="Material Bread logo">
 
-A full stack developer with experience in Front-end, Back-end, and Database layers
+I’m a full stack developer with hands-on experience in building Front-end, Back-end, and Database solutions.
 
 My main skills :
 - Languages: HTML, CSS, JavaScript, TypeScript, Python, php
@@ -18,12 +18,12 @@ My main skills :
 - Good SEO practices
 - CMS : WordPress
 
+My portfolio :
+
+https://www.fullstack-dev-seo.com/
+
 Some of my works : 
 
 - https://www.balagnemedical.com/
 - https://domus-medica-calenzana.com/
 - https://www.optimaljob.fr/
-
-My portfolio :
-
-https://www.fullstack-dev-seo.com/
