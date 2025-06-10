@@ -4,7 +4,7 @@
 
 <img width="280" src="https://github.com/Jean-Joooo/Jean-Joooo/assets/124114074/d76adcb2-b1d8-46d0-bd31-b84dc3a7fbe3" alt="Material Bread logo">
 
-I’m a full stack developer with hands-on experience in building Front-end, Back-end, and Database solutions.
+A full stack developer with experience in Front-end, Back-end, and Database development.
 
 My main skills :
 - Languages: HTML, CSS, JavaScript, TypeScript, Python, php
