@@ -2,7 +2,7 @@
 
 # I am Jean-Joseph
 
-![coding](https://github.com/user-attachments/assets/c10f13fa-7246-491a-a040-1993e711a6f7)
+![coding](https://github.com/user-attachments/assets/c88ef9f8-b0ca-4f30-814e-a16929652b87)
 
 A full stack developer with experience in Front-end, Back-end, and Database development.
 
