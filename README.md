@@ -10,7 +10,7 @@ My main skills :
 
 - Languages: HTML, CSS, JavaScript, TypeScript, Python, PHP
 - Libraries & Frameworks: jQuery, React, Django, Node.js frameworks (NestJs, Express.js), NextJs, Material UI, and Bootstrap
-- Version Control & Development Tools: Git, GitHub, Visual Studio Code, Sublime Text
+- Version Control & Development Tools: Git, GitHub, npm, Visual Studio Code, Sublime Text
 - Cloud Technologies: Cloud Native practices, DevOps, CI/CD
 - Containerization: Docker, Kubernetes, OpenShift
 - Database Management: SQL, NoSQL
