@@ -6,9 +6,9 @@
 
 A full stack developer with experience in Front-end, Back-end, Database development, and Digital Marketing.
 
-My main skills :
+## My main skills :
 
-- Languages: HTML, CSS, JavaScript, TypeScript, Python, PHP
+- Languages: HTML, CSS, C#, JavaScript, TypeScript, Python, PHP
 - Libraries & Frameworks: jQuery, React, Django, Node.js frameworks (NestJs, Express.js), NextJs, Material UI, and Bootstrap
 - Version Control & Development Tools: Git, GitHub, npm, Visual Studio Code, Sublime Text
 - Cloud Technologies: Cloud Native practices, DevOps, CI/CD
@@ -16,6 +16,7 @@ My main skills :
 - Database Management: SQL, NoSQL
 - Best practices on cybersecurity
 - Microservices and Serverless Computing
+- Game development
 - CMS : WordPress
 - Best SEO practices
 - ASO (App Store Optimization)
@@ -23,6 +24,8 @@ My main skills :
 - Conversion funnel optimization
 - API integration & ROI-driven digital strategy
 
-## Explore some of my creations :
+## Portfolio & Profiles :
 
-- https://www.fullstack-digitalmarketing.com/
+- **Website/Portfolio:** [fullstack-digitalmarketing.com](https://www.fullstack-digitalmarketing.com/)
+- **GitHub Repositories:** [View My Code](https://github.com/Jean-Joooo?tab=repositories)
+- **Unity Dev Profile:** [See My Game Creations](https://play.unity.com/en/user/22629c72-4d39-48ff-bed8-08491b47a243)
