@@ -16,7 +16,7 @@ A full stack developer with experience in Front-end, Back-end, Database developm
 - Database Management: SQL, NoSQL
 - Best practices on cybersecurity
 - Microservices and Serverless Computing
-- Game development
+- Game Development
 - CMS : WordPress
 - Best SEO practices
 - ASO (App Store Optimization)
