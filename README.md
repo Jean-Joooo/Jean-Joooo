@@ -27,5 +27,5 @@ A full stack developer with experience in Front-end, Back-end, Database developm
 ## Portfolio & Profiles :
 
 - **Website/Portfolio:** [fullstack-digitalmarketing.com](https://www.fullstack-digitalmarketing.com/)
-- **GitHub Repositories:** [View My Code](https://github.com/Jean-Joooo?tab=repositories)
-- **Unity Dev Profile:** [See My Game Creations](https://play.unity.com/en/user/22629c72-4d39-48ff-bed8-08491b47a243)
+- **GitHub Repositories:** [View My Codes](https://github.com/Jean-Joooo?tab=repositories)
+- **Unity Dev Profile:** [See My Games Creations](https://play.unity.com/en/user/22629c72-4d39-48ff-bed8-08491b47a243)
