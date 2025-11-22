@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/f5f25356-3b33-4d28-889e-2360878fed35" alt="coding" width="400"/>
 
-A Developer specialized in Front-end, Back-end and in Game development, with a strategic understanding of Digital Marketing.
+### A Developer specialized in Front-end, Back-end and in Game development, with a strategic understanding of Digital Marketing.
 
 ## My main skills :
 
